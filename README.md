@@ -3,7 +3,8 @@ I’m a Certified Red Team operator with hands-on expertise in adversary simulat
 
 Proven ability to reduce organizational attack exposure by 60%+, achieve 95% phishing-block rates, and deliver enterprise-ready offensive security solutions across 500+ endpoints, driving resilience against advanced persistent threats (APTs) and designed scalable defenses that enhance global compliance (GDPR, HIPAA, PCI-DSS) and strengthen customer trust. 
 
-Technical Skills 
+
+TECHNICAL SKILLS:
 
     OS & Platforms: Kali Linux, Windows Server/XP/10/11, AWS, Microsoft Azure, Acronis. 
 
@@ -19,7 +20,8 @@ Technical Skills
 
     Emerging Tech & Tools: Linux Administrator, Microsoft365, Presentation, Threat Intelligence Playbooks, SOAR, AI-driven Security Automation, CRM/Database Security. 
 
-    Project Experience 
+    
+PROJECT EXPERIENCE:
 
 Adversarial Emulation & Network Defense Red Team Lab (OSCP-Style) | Aug 2025 
 
