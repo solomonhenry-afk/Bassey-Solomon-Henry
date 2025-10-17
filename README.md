@@ -78,26 +78,20 @@
 
 </div>
 
+
+
 <!-- TABLE OF CONTENTS -->
 <div class="toc">
-**Table of Contents**  
+Table of Contents
      
 1. [Executive Summary]
-     
-2. [Technical Skills]
-     
-3. [Project Experience — Offensive & SOC Integration]
-     
-4. [DevSecOps & Cloud Security Projects]
-     
-5. [GRC / Technology Risk & Compliance]
-     
-     6. [Professional Experience & Key Projects]  
-
-7. [Education, Certifications & Achievements]
-
-8. [Portfolio Links & Next Steps]
-
+     2. [Technical Skills]
+     3. [Project Experience — Offensive & SOC Integration]
+     4. [DevSecOps & Cloud Security Projects]
+     5. [GRC / Technology Risk & Compliance]
+     6. [Professional Experience & Key Projects]
+     7. [Education, Certifications & Achievements]
+     8. [Portfolio Links & Next Steps]
 
 ---
 
