@@ -82,7 +82,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <div class="toc">
-Table of Contents
+TABLE OF CONTENTS:
      
 1. [Executive Summary]
      2. [Technical Skills]
