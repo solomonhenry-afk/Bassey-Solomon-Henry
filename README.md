@@ -67,7 +67,9 @@
     <h1 class="name">BASSEY SOLOMON HENRY</h1>
     <div class="title">Certified Security Engineer · Red Team Operator · DevSecOps &amp; GRC Specialist</div>
     <div class="contact muted">
-      📍 Lagos, Nigeria • 🌐 <a href="https://github.com/solomonhenry-afk">github.com/solomonhenry-afk</a> • 💼 <a href="https://lighthouse-technology.vercel.app">lighthouse-technology.vercel.app</a> • ✉️ bassolhenry@protonmail.com
+      📍 Lagos, Nigeria • 🌐 <a href="https://github.com/solomonhenry-afk">github.com/solomonhenry-afk</a> 
+          • 💼 <a href="https://lighthouse-technology.vercel.app">lighthouse-technology.vercel.app</a> 
+                            • ✉️ bsolomonhenry@obedagroup.com
     </div>
   </div>
 </div>
