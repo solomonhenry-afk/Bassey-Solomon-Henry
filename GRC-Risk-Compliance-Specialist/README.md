@@ -44,10 +44,10 @@
 
 ## 🧾 Certifications
 - ISO 27001 Lead Implementer *(In Progress)*  
-- CompTIA Security+  
+- CompTIA Pentest  
 - Google Cybersecurity Certification  
 - Acronis Cybersecurity Associate  
-- TryHackMe Governance & Risk Path  
+- Qualys Policy Compliance Governance | PCI DSS |TruRisk Eliminate: Patch Management (PM) | CyberSecurity Asset Management (CSAM) Specialist | Vulnerability Management (VM)  
 
 ---
 
