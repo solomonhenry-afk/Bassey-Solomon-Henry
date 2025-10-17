@@ -74,18 +74,28 @@
   </div>
 </div>
 
-<div class="divider"></div>
+<div class="divider"></div> 
+
+---
 
 <!-- TABLE OF CONTENTS -->
 <div class="toc">
 **Table of Contents**  
+     ---
 1. [Executive Summary](#executive-summary)  
+     ---
 2. [Technical Skills](#technical-skills)  
-3. [Project Experience — Offensive & SOC Integration](#project-experience---offensive--soc-integration)  
+     ---
+3. [Project Experience — Offensive & SOC Integration](#project-experience---offensive--soc-integration) 
+     ---
 4. [DevSecOps & Cloud Security Projects](#devsecops--cloud-security-projects)  
+     ---
 5. [GRC / Technology Risk & Compliance](#grc--technology-risk--compliance)  
+     ---
 6. [Professional Experience & Key Projects](#professional-experience--key-projects)  
-7. [Education, Certifications & Achievements](#education-certifications--achievements)  
+     ---
+7. [Education, Certifications & Achievements](#education-certifications--achievements)
+     ---
 8. [Portfolio Links & Next Steps](#portfolio-links--next-steps)
 </div>
 
