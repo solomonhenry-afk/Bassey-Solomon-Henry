@@ -69,7 +69,7 @@
     <div class="contact muted">
       📍 Lagos, Nigeria • 🌐 <a href="https://github.com/solomonhenry-afk">github.com/solomonhenry-afk</a> 
           • 💼 <a href="https://lighthouse-technology.vercel.app">lighthouse-technology.vercel.app</a> 
-                            • ✉️ bsolomonhenry@obedagroup.com
+                                  • ✉️ bsolomonhenry@obedagroup.com
     </div>
   </div>
 </div>
