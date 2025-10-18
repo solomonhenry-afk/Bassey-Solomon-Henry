@@ -1,97 +1,18 @@
-<!-- README.md — Master Resume Blueprint (Dark Mode, Gradient Header, Stylish Dividers)
-     Paste this directly into your GitHub README.md. Designed for GitHub Pages / GitHub dark theme.
--->
+# **BASSEY SOLOMON HENRY**
+### Certified Security Engineer · Red Team Operator · DevSecOps & GRC Specialist  
+📍 Lagos, Nigeria · 🌐 github.com/solomonhenry-afk · 💼 lighthouse-technology.vercel.app · ✉️ bsolomonhenry@obedagroup.com  
 
-<style>
-  /* Inline CSS for GitHub README (limited support but works for many readers) */
-  :root{
-    --accent1:#00b4ff; /* cyan */
-    --accent2:#0066ff; /* deep blue */
-    --muted:#9aa4b2;
-    --card-bg: rgba(255,255,255,0.02);
-  }
-  .hero {
-    padding: 28px;
-    margin-top: 6px;
-    border-radius: 12px;
-    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));
-    box-shadow: 0 2px 12px rgba(0,0,0,0.45);
-  }
-  .name {
-    font-weight: 800;
-    font-size: 30px;
-    background: linear-gradient(90deg, var(--accent2), var(--accent1));
-    -webkit-background-clip: text;
-    color: transparent;
-    margin: 0;
-  }
-  .title { color: var(--muted); margin: 6px 0 0 0; font-weight:600; }
-  .contact { color: var(--muted); margin-top:8px; font-size:13px; }
-  .toc { padding: 12px; background: var(--card-bg); border-radius:8px; }
-  .section-header {
-    display:flex;
-    align-items:center;
-    gap:12px;
-    justify-content:center;
-    margin-top:28px;
-  }
-  .section-title {
-    font-size:18px;
-    font-weight:700;
-    color:var(--accent1);
-    margin:0;
-  }
-  .divider {
-    margin: 10px auto 22px;
-    height:6px;
-    width:100%;
-    max-width:960px;
-    border-radius:8px;
-    background: linear-gradient(90deg, rgba(0,102,255,0.95), rgba(0,180,255,0.95));
-    box-shadow: 0 6px 18px rgba(0,102,255,0.06);
-  }
-  .muted { color:var(--muted); }
-  .pill { background: rgba(0,180,255,0.06); border-radius:6px; padding:4px 8px; font-weight:600; color:var(--accent1); }
-  .kbd { background: rgba(255,255,255,0.03); padding:2px 6px; border-radius:4px; font-size:12px; color:var(--muted); }
-  .metrics { display:inline-block; padding:6px 10px; border-radius:8px; background: linear-gradient(90deg, rgba(0,102,255,0.06), rgba(0,180,255,0.04)); margin-right:8px; font-weight:700; color:var(--accent1); }
-  ul.clean { margin: 6px 0 6px 18px; }
-  li.space { margin-bottom:8px; }
-  .code { background: rgba(255,255,255,0.02); padding:6px 8px; border-radius:6px; color:var(--muted); font-size:13px; }
-  .badge { font-size:12px; padding:6px 8px; border-radius:6px; margin-right:6px; background: rgba(255,255,255,0.02); color:var(--muted); }
-  /* Make sure links remain visible */
-  a { color: var(--accent1); font-weight:600; }
-</style>
+---
 
-<div class="hero">
-  <div align="center">
-    <h1 class="name">BASSEY SOLOMON HENRY</h1>
-    <div class="title">Certified Security Engineer · Red Team Operator · DevSecOps &amp; GRC Specialist</div>
-    <div class="contact muted">
-      📍 Lagos, Nigeria • 🌐 <a href="https://github.com/solomonhenry-afk">github.com/solomonhenry-afk</a> 
-          • 💼 <a href="https://lighthouse-technology.vercel.app">lighthouse-technology.vercel.app</a> 
-                                  • ✉️ bsolomonhenry@obedagroup.com
-    </div>
-  </div>
-</div>
-
-<div class="divider"></div> 
-
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<div class="toc">
-TABLE OF CONTENTS:
-     
-1. [Executive Summary]
-     2. [Technical Skills]
-     3. [Project Experience — Offensive & SOC Integration]
-     4. [DevSecOps & Cloud Security Projects]
-     5. [GRC / Technology Risk & Compliance]
-     6. [Professional Experience & Key Projects]
-     7. [Education, Certifications & Achievements]
-     8. [Portfolio Links & Next Steps]
+## 📘 Table of Contents
+1. Executive Summary  
+2. Technical Skills  
+3. Project Experience — Offensive & SOC Integration  
+4. DevSecOps & Cloud Security Projects  
+5. GRC / Technology Risk & Compliance  
+6. Professional Experience & Key Projects  
+7. Education, Certifications & Achievements  
+8. Portfolio Links & Next Steps  
 
 ---
 
@@ -119,7 +40,7 @@ Proven ability to **reduce organizational attack exposure by 60%+**, achieve **9
 - <span class="pill">Frameworks & Compliance</span> MITRE ATT&CK, NIST CSF, ISO 27001, PCI-DSS, GDPR, HIPAA, COBIT  
 - <span class="pill">Analytics</span> Splunk dashboards, Logstash, Log normalization, Forensic reporting, Threat intel enrichment  
 
-> **ATS Note:** this section intentionally includes concentrated role-based keywords (SOC, SIEM, incident response, DevSecOps, Kubernetes, GRC, ISO, NIST, MITRE) to improve discoverability and match rates.
+> **Note:** I intentionally includes concentrated role-based keywords (SOC, SIEM, incident response, DevSecOps, Kubernetes, GRC, ISO, NIST, MITRE) to improve discoverability and match rates.
 
 <div class="divider"></div>
 
