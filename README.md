@@ -105,6 +105,30 @@ The objective: to reduce risk, enforce least privilege, and support Zero Trust c
 - Simulated phishing campaigns using Zphisher, ALHacking, Cloudflared; instrumented credential capture tests for controlled training.  
 - **Keywords:** workstation hardening, phishing simulation, endpoint security.
 
+### Enterprise SOC Playbook — Phase 2 (Active Directory) | Sep 2025 – Present
+Built an enterprise-grade AD lab and completed Phase 2 playbook: 
+-Executed Kerberoasting, AS-REP, GPO abuse simulations and mapped 3 privilege escalation chains with BloodHound.  
+-Engineered Splunk/Sigma detections and incident response workflows; reduced modeled AD attack surface by 65% and improved IR readiness by 40% (TTD <10m, TTC <60m).  
+-Delivered stakeholder-ready remediation one-pager, incident ticket & AAR templates for repeatable red/blue exercises across 500+ endpoints.
+
+### AD Adversary Emulation: IR Playbook & Executive Remediation Report (Kerberos Abuse) | Sep 2025 – Present
+-Full Incident Response Playbook — Kerberos Abuse (Detect → Triage → Contain → Remediate → Recover)
+-One-Page Executive Remediation Report — Kerberos Abuse (stakeholder-ready)
+-Completed Phase 2 lab deliverables: IR playbook & executive remediation for Kerberos abuse — ready for Red/Blue exercises.
+-Enterprise-grade Active Directory SOC Playbook & Executive Reporting. ready to implement in Phase 2 and reuse for future scenarios.)
+
+### Built an enterprise-grade Active Directory adversary-emulation playbook and executive remediation report to detect, contain and eradicate Kerberos-based attacks. Delivered:
+-Full SOC playbook (roles, Splunk/Sigma detections, EDR containment, BloodHound attack-path modeling)
+-Executive one-page remediation report (KPIs: TTD <10m, TTC <60m; modeled attack surface reduction ≥65%)
+Incident ticket & AAR templates for repeatable runbooks:
+-Enterprise-grade IR playbook + executive remediation to detect, contain and eradicate Kerberos abuse — reduced AD attack surface by 65%; improved IR readiness by 40%
+-IR Playbook: Full Kerberos abuse IR playbook — detection, containment, remediation.
+-Exec Report: Executive remediation roadmap: prioritized actions, KPIs & business impact.
+
+### DHCP Server Deployment in Windows Active Directory Lab | Jul 2025 – Present
+- During the build of my enterprise Active Directory Lab, one critical challenge was managing IP address allocation across multiple client machines in a mixed virtualized environment (Host-Only + Bridged networking in VirtualBox) Since my Attacker Machine was my Kali Linux bare metal. Manual IP assignment was inefficient, error-prone, and not scalable. 
+- But with real persistence and the heart of a bulldog, the internal drive and determination to continue despite difficulties, challenges, or setbacks in Overcoming resistance and pushing through when results are slow to appear. I successfully Deploy and configure a DHCP server in Windows Server 2019 (integrated with AD DS and DNS) to automate and streamline IP management, ensuring reliability, scalability, and centralized control.
+
 ### Simulated Office Network with Cisco Packet Tracer | **2025**
 - Designed segmented VLAN-based network (HR, Management, IT, Workstations) with ACLs and inter-VLAN controls — reduced lateral movement exposure **by 40%**.  
 - Conducted real-time attack simulations & traffic analysis to validate firewall rules and IR readiness.  
