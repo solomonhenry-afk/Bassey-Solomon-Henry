@@ -20,10 +20,10 @@
   <h2 class="section-title">🚀 EXECUTIVE SUMMARY</h2>
 </div>
 
-I'm a Certified Red Team operator and **Certified Security Engineer** with **4+ years** of hands-on experience across **adversary emulation, SOC operations, DevSecOps pipeline security, cloud security, and GRC automation**.  
-Proven ability to **reduce organizational attack exposure by 60%+**, achieve **95% phishing-block rates**, and deliver enterprise-ready offensive & defensive solutions across **500+ endpoints**. Experienced at mapping technical controls to regulatory frameworks (GDPR, HIPAA, PCI-DSS) and converting adversary insights into measurable risk reduction and compliance evidence.
+I'm a Certified Red Team operator and **Certified Security Engineer** with **4+ years** of hands-on experience across **Adversary Emulation, SOC Operations, DevSecOps Pipeline Security, Cloud Security, and GRC Automation**.  
+Proven ability to **Reduce Organizational Attack Exposure by 60%+**, achieve **95% Phishing-Block Rates**, and deliver enterprise-ready offensive & defensive solutions across **500+ Endpoints**. Experienced at Mapping Technical Controls to Regulatory Frameworks (GDPR, HIPAA, PCI-DSS) and Converting Adversary Insights into Measurable Risk Reduction and Compliance Evidence.
 
-**Core strengths & targets:** threat detection, incident response (IR), SIEM engineering, Red Team operations, Active Directory security, CI/CD hardening, cloud IAM & S3 security, Kubernetes/container isolation, GRC automation (ISO/NIST/SOC 2), automation (Python/Bash/PowerShell), and metrics-driven security operations.
+**Core Strengths & Targets:** Threat Detection, Incident Response (IR), SIEM Engineering, Red Team Operations, Active Directory Security, CI/CD Hardening, Cloud IAM & S3 Security, Kubernetes/Container Isolation, GRC Automation (ISO/NIST/SOC 2), Automation (Python/Bash/PowerShell), and Metrics-Driven Security Operations.
 
 <div class="divider"></div>
 
