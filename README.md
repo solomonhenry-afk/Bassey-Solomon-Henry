@@ -234,10 +234,14 @@ Results-driven cybersecurity professional translating offensive insights into go
 - *University of Uyo – Akwa Ibom State, Nigeria* — B.Sc. Environmental Studies (Architecture) | Second Class Upper (GPA: 3.6/4.0)
 
 **Certifications & Professional Development**  
+- TryHackMe: SOC Level 1 | Security Engineer | Jr Penetration Tester | CompTIA Pentest | CyberSecurity Certified | Web Exploitation
+- Microsoft AZURE Security Engineer
+- AWS Security Specialty | Cloud Practitioner | Shared Responsibility Model
+- Google Cybersecurity Professional Certified
 - Qualys Certified Specialist: PCI DSS, Vulnerability Management, Policy Compliance, CSAM, TruRisk PM  
-- Acronis Certified (Backup, Email Security, MDR) & Cloud Tech Professional (Disaster Recovery, Email Security, MDR)  
-- OSCP — *In Progress* (noted) | CISSP / CRISC — *Study Target 2026*  
+- Acronis Certified (Backup, Email Security, EDR, MDR) & Cloud Tech Professional (Disaster Recovery, Email Security, MDR) Cybersecurity Associate  
 - Nigerian Fintech Regulatory Compliance Certificate — NIALS
+- OSCP — *In Progress* (noted) | CISSP / CRISC — *Study Target 2026* 
 
 **Key Achievements (Quantified)**  
 - **65%** attack surface reduction via prioritized remediation.  
