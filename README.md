@@ -63,6 +63,25 @@ Proven ability to **reduce organizational attack exposure by 60%+**, achieve **9
 - Delivered remediation: credential hygiene, hardened GPOs, segmentation — **~65% modeled AD attack surface reduction**.  
 - **Keywords:** Active Directory security, Kerberos, NTLM, SIEM detections, GPO hardening.
 
+### Active Directory Identity & Access Management (IAM) – GPO Enforcement & Role-Based Access Control | Aug 2025 – Present
+
+A complete end-to-end hands-on Enterprise Identity & Access Management (IAM) Implementation — Active Directory & GPO Enforcement demonstrating authentication, authorization, least privilege, and compliance alignment.
+
+**Associated With: LightHouse Technology**
+Link: https://github.com/solomonhenry-afk/ActiveDirectory-IAM-Lab
+
+Identity and Access Management (IAM) is a critical pillar of enterprise security—ensuring that the right individuals have the right access to the right resources at the right time.
+
+In this hands-on lab I designed, built and validated an enterprise-grade IAM solution based on Microsoft Active Directory and Group Policy Objects (GPOs). 
+The objective: to reduce risk, enforce least privilege, and support Zero Trust controls across on-premises and hybrid infrastructure.
+
+**Key Achievements & Metrics**:
+- Engineered an OU-based structure and GPO deployment across 20+ workstations and domain controllers, achieving a modeled 65 % reduction in attack surface.
+- Enforced Audit Logon, Audit Privilege Use and Audit Object Access policies with both “Success” and “Failure” flags, enabling continuous monitoring and strengthening SOC readiness by 30 %+.
+- Mapped and implemented RBAC, ABAC and PBAC controls: roles (ITAdmin, Helpdesk, Finance), attributes (department, OU) and policy objects (GPOs) — achieving full role-based access and reducing privilege creep by 40 %.
+- Demonstrated concept of SSO via centralized domain authentication and integrated IAM lifecycle (provisioning/de-provisioning) workflows, improving operational efficiency by 25 %.
+- Created full screenshot evidence (8+ HTML GPO report screenshots) and documentation within a GitHub repo — showing real-world capability and audit-ready compliance mapping (NIST 800-53 AC-2/AC-6, ISO 27001 A.9) which increased executive-readiness of controls by 70 %.
+
 ### Proactive PDF Threat Detection for SOC & Red Team Defense | **2025**
 - Built a **real-time PDF malware detection** pipeline using **PDFiD, ExifTool, Inotifywait**.  
 - Monitored downloads & scanned for high-risk indicators (JavaScript, Launch, OpenAction, EmbeddedFiles), reducing document-based attack exposure **by 40%+**.  
