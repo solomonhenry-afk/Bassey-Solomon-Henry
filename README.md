@@ -1,6 +1,6 @@
 #                                **BASSEY SOLOMON HENRY**
 ### Certified CyberSecurity Engineer · Red Team Operator · DevSecOps & GRC Specialist  
-📍 Lagos, Nigeria · 🌐linkedin.com/in/bassey-solomon-henry 🌐 github.com/solomonhenry-afk · 💼 lighthouse-technology.vercel.app · ✉️ bsolomonhenry@obedagroup.com  
+📍 Remote · 🌐linkedin.com/in/bassey-solomon-henry 🌐 github.com/solomonhenry-afk · 💼 lighthouse-technology.vercel.app · ✉️ bsolomonhenry@obedagroup.com  
 
 ---
 
