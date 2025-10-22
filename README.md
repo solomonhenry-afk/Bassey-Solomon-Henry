@@ -20,7 +20,7 @@
   <h2 class="section-title">🚀 EXECUTIVE SUMMARY</h2>
 </div>
 
-Certified Red Team operator and **Certified Security Engineer** with **4+ years** of hands-on experience across **adversary emulation, SOC operations, DevSecOps pipeline security, cloud security, and GRC automation**.  
+I'm a Certified Red Team operator and **Certified Security Engineer** with **4+ years** of hands-on experience across **adversary emulation, SOC operations, DevSecOps pipeline security, cloud security, and GRC automation**.  
 Proven ability to **reduce organizational attack exposure by 60%+**, achieve **95% phishing-block rates**, and deliver enterprise-ready offensive & defensive solutions across **500+ endpoints**. Experienced at mapping technical controls to regulatory frameworks (GDPR, HIPAA, PCI-DSS) and converting adversary insights into measurable risk reduction and compliance evidence.
 
 **Core strengths & targets:** threat detection, incident response (IR), SIEM engineering, Red Team operations, Active Directory security, CI/CD hardening, cloud IAM & S3 security, Kubernetes/container isolation, GRC automation (ISO/NIST/SOC 2), automation (Python/Bash/PowerShell), and metrics-driven security operations.
