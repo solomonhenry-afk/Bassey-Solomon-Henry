@@ -151,6 +151,12 @@ Incident ticket & AAR templates for repeatable runbooks:
 - Developed a manifest hardening tool (Python) integrated into CI — **100% PR blocking coverage** for privileged pod configs.  
 - **Keywords:** Kubernetes security, container hardening, GPU isolation, manifest validation.
 
+### Lighthouse Technology — Business Plan (Interactive Web Deployment) | Oct 2025 – Present
+- I Designed and deployed a production-ready, interactive business plan website showcasing cybersecurity strategy and technology resilience.
+- Implemented typewriter animation and progressive fade-in content to simulate real-world executive storytelling.
+- Developed a custom interactive slide viewer (19 slides) for business plan presentation directly in-browser — no external tools required.
+- Fully deployed with CI/CD on Vercel + GitHub, integrating responsive design for desktop and mobile.
+
 ### DevSecOps Pipeline Security — CI/CD hardening with SAST/DAST & policy-as-code  
 - Engineered Python automation for SOC 2 / ISO 27001 / NIST CSF control evidence generation — **audit evidence collection time ↓ 80%**.  
 - Automated IAM least-privilege checks and S3 misconfiguration scans — **cloud privilege escalation risk ↓ 65%**.  
@@ -162,11 +168,36 @@ Incident ticket & AAR templates for repeatable runbooks:
 - Forwarded detection events to SIEM; reduced triage time **by 40%**.  
 - **Keywords:** PDF scanner, SIEM integration, automation, MITRE ATT&CK T1566.001.
 
+### Live GRC Analytics Command Center & Insight Engine (Flask + Plotly + CI/CD) | Oct 2025 – Present
+I designed and deployed a GRC Analytics Engine that transforms compliance data into executive-grade insights — all powered by Python, Plotly, Flask, and GitHub Actions.
+The dashboard automates:
+- Real-time KPI updates (Compliance %, Residual Risk, Control Effectiveness)
+- Nightly CI/CD refresh pipeline
+- Live deployment to Render
+- Auto-generated HTML reports as downloadable artifacts (GitHub Actions)
+  - Live hosted GRC dashboard (Render)  
+- Automated daily analytics via CI/CD  
+- Executive-grade Power BI–style visuals  
+- Static HTML snapshots for offline use  
+- 85% reduction in compliance reporting time
+Live: [grc-analytics-engine.onrender.com](https://grc-analytics-engine.onrender.com)  
+Code: [github.com/solomonhenry-afk/grc-analytics-engine](https://github.com/solomonhenry-afk/grc-analytics-engine)
+
 ### SIEM Log Analysis Toolkit — MITRE-aligned detections  
 - Created Python parsers and correlation templates; normalized logs into structured JSON for Splunk/ELK ingestion.  
 - Validated templates to reduce false positives **by 35%** and improve MTTD **by 55%** in labs simulating >500k events/day.  
 - **Keywords:** log normalization, correlation rules, detection tuning, MTTD.
 
+### Regulatory Compliance Automation Pipeline | Oct 2025 – Present
+This project demonstrates a full-stack GRC automation framework that continuously validates security and compliance posture using real configuration evidence.
+- Displays framework alignment scores, non-compliant control sections, and trend visuals (e.g., 85 % → 92 % compliance week-over-week).
+- Reduced manual audit prep time by ≈ 75 %.
+- Increased visibility of non-compliance items by 4× through color-coded dashboards.
+- Improved control adherence from 78 % to 94 % within three sprint cycles based on CI trend data.
+- Sample Artifact: reports/compliance_report.html – includes framework scores and weekly trend analytics.
+This project serves as concrete proof of hands-on GRC automation, demonstrating how I design and operationalize compliance intelligence pipelines that scale with enterprise infrastructure.
+- Map Active Directory & System Controls to Regulatory Frameworks (SOX, PCI-DSS, ISO 27001, NIST CSF).
+  
 <div class="divider"></div>
 
 <div id="grc--technology-risk--compliance" class="section-header">
@@ -176,12 +207,36 @@ Incident ticket & AAR templates for repeatable runbooks:
 ### Professional Summary (GRC Lens)
 Results-driven cybersecurity professional translating offensive insights into governance and risk outcomes. Delivered **65% attack surface reductions** and **40% IR improvements** through risk-based controls and automation. Skilled at mapping controls to business KPIs and producing audit-ready evidence.
 
+### AI Risk Predictor — Lighthouse Technology | Oct 2025 – Present
+- I designed and implemented an AI-driven risk prediction engine that turns time-series compliance telemetry into actionable forecasts. The system trains daily, predicts next-day compliance and high-risk probability, and outputs an executive HTML report with interactive charts and KPIs.
+- Gives execs early-warning signals to prioritize remediation — reduces surprise audit findings and enables proactive control tuning.
+- Built a pipeline (data → ML → interactive dashboard) that predicts enterprise risk scores and highlights high-risk days. 
+- Live demo: https://grc-analytics-engine.onrender.com/ai-dashboard
+
+### GRC Controls Framework Analytics – Lighthouse Technology | Oct 2025 – Present
+Organization: Lighthouse Technology (Practical Enterprise GRC Environment)
+Project URL - https://github.com/solomonhenry-afk/grc-controls-framework-analytics
+- I Designed and deployed a complete Governance, Risk & Compliance (GRC) automation framework simulating a real-world enterprise environment.
+- Implemented ISO 27001, NIST CSF, PCI DSS, and GDPR mappings with automated analytics, remediation logic, and executive-level reporting.
+This is an Enterprise-scale GRC Automation Lab simulating a real compliance ecosystem — from Active Directory controls to Cloud + DevSecOps risk automation.
+- Built under Lighthouse Technology, this project demonstrates how AI-driven analytics can transform Governance, Risk, and Compliance into a continuous, predictive system.
+  
 ### KKONTech ISP — Technology Risk Analyst | Lagos, Nigeria | **2021 – Jan 2025**
 - Designed & deployed enterprise controls — **60%+ attack exposure reduction**.  
 - Automated monitoring & compliance tasks (Python/Bash) — **40% operational efficiency gain**; maintained **99.9% uptime**.  
 - Neutralized 50+ malware incidents; secured 20+ websites without breach.  
 - Trained 15+ employees — reduced human-factor risk **by 27%**.  
 - Built Splunk dashboards — detection time **↓ 40%**, SOC efficiency **↑ 25%**.
+
+### GRC Controls Implementation Framework | Oct 2025 – Present
+Organization: Lighthouse Technology
+Project URL: github.com/solomonhenry-afk/grc-controls-framework
+Portfolio: lighthouse-technology.vercel.app
+- I Designed and implemented a fully automated Governance, Risk, and Compliance (GRC) Controls Framework that transforms static spreadsheets into dynamic, continuous assurance dashboards using Python, Excel, and GitHub Actions.
+This project bridges enterprise architecture and cybersecurity governance, showcasing how GRC can evolve into a data-driven, DevSecOps-enabled discipline.
+- Map technical controls in Active Directory to NIST CSF, ISO 27001, and COBIT frameworks.
+- Automate risk scoring, KRI computation, and audit readiness validation.
+- Build a repeatable compliance pipeline that updates metrics every 24 hours via GitHub Actions.
 
 ### Tata Cybersecurity Virtual Job Simulation — Security Governance Analyst | **June 2025**
 - Executed IAM simulations aligning access controls with regulatory and business needs; produced executive-level documentation and decision support.
