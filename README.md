@@ -1,5 +1,5 @@
 #                                **BASSEY SOLOMON HENRY**
-### Certified CyberSecurity Engineer · Red Team Operator · DevSecOps & GRC Specialist  
+### Certified CyberSecurity Engineer · Red Team Operator · CloudSecurity/DevSecOps & GRC Specialist  
 📍 Remote · 🌐linkedin.com/in/bassey-solomon-henry 🌐 github.com/solomonhenry-afk · 💼 lighthouse-technology.vercel.app ·
 ✉️ bsolomonhenry@obedagroup.com  
 
@@ -21,7 +21,7 @@
   <h2 class="section-title">🚀 EXECUTIVE SUMMARY</h2>
 </div>
 
-I'm a Certified Red Team operator and **Certified Security Engineer** with **4+ years** of hands-on experience across **Adversary Emulation, SOC Operations, DevSecOps Pipeline Security, Cloud Security, and GRC Automation**.  
+I'm a Certified Red Team operator and **Certified Security Engineer** with **6+ years** of hands-on experience across **Adversary Emulation, SOC Operations, DevSecOps Pipeline Security, Cloud Security, and GRC Automation**.  
 Proven Ability to **Reduce Organizational Attack Exposure by 60%+**, Achieve **95% Phishing-Block Rates**, and Deliver Enterprise-Ready Offensive & Defensive Solutions Across **500+ Endpoints**. Experienced at Mapping Technical Controls to Regulatory Frameworks (GDPR, HIPAA, PCI-DSS) and Converting Adversary Insights into Measurable Risk Reduction and Compliance Evidence.
 
 **Core Strengths & Targets:** Threat Detection, Incident Response (IR), SIEM Engineering, Red Team Operations, Active Directory Security, CI/CD Hardening, Cloud IAM & S3 Security, Kubernetes/Container Isolation, GRC Automation (ISO/NIST/SOC 2), Automation (Python/Bash/PowerShell), and Metrics-Driven Security Operations.
