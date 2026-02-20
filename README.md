@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 Table of Contents
+##  Table of Contents
 1. Executive Summary  
 2. Technical Skills  
 3. Project Experience — Offensive & SOC Integration  
@@ -18,7 +18,7 @@
 ---
 
 <div id="executive-summary" class="section-header">
-  <h2 class="section-title">🚀 EXECUTIVE SUMMARY</h2>
+  <h2 class="section-title"> EXECUTIVE SUMMARY</h2>
 </div>
 
 I'm a Certified Red Team operator and **Certified Security Engineer** with **6+ years** of hands-on experience across **Adversary Emulation, SOC Operations, DevSecOps Pipeline Security, Cloud Security, and GRC Automation**.  
