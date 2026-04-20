@@ -2,6 +2,7 @@
 Cybersecurity Engineer | SOC • SIEM • EDR/XDR | Threat Detection & Incident Response | Cloud Security (AWS/Azure)
 
 📍 Remote/Hybrid | Open to Relocation & Global Sponsorship 
+
 linkedin.com/in/bassey-solomon-henry | github.com/solomonhenry-afk | solomon_henry111@outlook.com
 
 ---
