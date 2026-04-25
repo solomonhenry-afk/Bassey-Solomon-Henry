@@ -1,44 +1,5 @@
-<!-- Cybersecurity Analyst / SOC Analyst Resume -->
-<style>
-/* ===== Resume Styling (GitHub Pages Compatible) ===== */
-body {
-  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  background-color: #0d1117;
-  color: #c9d1d9;
-  line-height: 1.6;
-}
-h1, h2, h3 {
-  color: #58a6ff;
-  border-bottom: 1px solid #30363d;
-  padding-bottom: 4px;
-}
-.section {
-  margin-top: 25px;
-}
-.highlight {
-  color: #00c2ff;
-  font-weight: 600;
-}
-.badge {
-  background: linear-gradient(90deg, #0070f3, #00c2ff);
-  color: white;
-  padding: 2px 8px;
-  border-radius: 5px;
-  font-size: 12px;
-}
-</style>
 
-<h1 align="center">💻 Cybersecurity Analyst | SOC Analyst | Threat Detection & Response Specialist</h1>
-
-<p align="center">
-<a href="https://github.com/solomonhenry-afk"><img src="https://img.shields.io/badge/GitHub-solomonhenry--afk-181717?logo=github"/></a>
-<a href="mailto:solomonhenry@protonmail.com"><img src="https://img.shields.io/badge/Email-solomonhenry@protonmail.com-blue?logo=protonmail"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Location-Remote-00c2ff?logo=earth"/></a>
-</p>
-
----
-
-## 🧠 Profile Summary
+##  Profile Summary
 
 Results-driven <span class="highlight">Cybersecurity Analyst</span> and <span class="highlight">SOC Operations Specialist</span> with a proven track record in log correlation, threat detection, and incident response across hybrid infrastructures.  
 Hands-on experience with <span class="highlight">SIEM engineering</span>, <span class="highlight">EDR/MDR operations</span>, and <span class="highlight">cloud security monitoring</span>.  
@@ -46,20 +7,20 @@ Strong understanding of <span class="highlight">MITRE ATT&CK</span> framework, a
 
 ---
 
-## ⚙️ Core Competencies
+##  Core Competencies
 
-- 🔹 **Threat Hunting** — Detection and analysis of TTPs mapped to MITRE ATT&CK  
-- 🔹 **Log & Event Correlation** — Splunk, Wazuh, and ELK Stack SIEM dashboards  
-- 🔹 **Incident Response** — Triage, containment, eradication, and recovery playbooks  
-- 🔹 **Malware Analysis** — Behavioral sandboxing, YARA rule creation, and IOC extraction  
-- 🔹 **Endpoint & Network Security** — CrowdStrike Falcon, Acronis MDR, Wireshark  
-- 🔹 **Security Automation** — SOAR scripting for enrichment and alert escalation  
-- 🔹 **Vulnerability Management** — Scanning, prioritization, and patch lifecycle  
-- 🔹 **Documentation & Reporting** — Executive summaries, RCA reports, and SOC metrics  
+-  **Threat Hunting** — Detection and analysis of TTPs mapped to MITRE ATT&CK  
+-  **Log & Event Correlation** — Splunk, Wazuh, and ELK Stack SIEM dashboards  
+-  **Incident Response** — Triage, containment, eradication, and recovery playbooks  
+-  **Malware Analysis** — Behavioral sandboxing, YARA rule creation, and IOC extraction  
+-  **Endpoint & Network Security** — CrowdStrike Falcon, Acronis MDR, Wireshark  
+-  **Security Automation** — SOAR scripting for enrichment and alert escalation  
+-  **Vulnerability Management** — Scanning, prioritization, and patch lifecycle  
+-  **Documentation & Reporting** — Executive summaries, RCA reports, and SOC metrics  
 
 ---
 
-## 🧰 Technical Tool Stack
+##  Technical Tool Stack
 
 | Category | Tools / Platforms |
 |-----------|-------------------|
@@ -73,9 +34,9 @@ Strong understanding of <span class="highlight">MITRE ATT&CK</span> framework, a
 
 ---
 
-## 🧪 Portfolio & Projects
+##  Portfolio & Projects
 
-### 🔸 **SOC Operations Lab — Wazuh SIEM + ELK Stack**
+###  **SOC Operations Lab — Wazuh SIEM + ELK Stack**
 Developed a full-scale SOC lab integrating **Wazuh**, **Elasticsearch**, and **Kibana** to monitor simulated enterprise endpoints.  
 Implemented alerting rules for:
 - Brute-force attempts, ransomware simulations, and privilege escalations  
@@ -84,7 +45,7 @@ Implemented alerting rules for:
 
 ---
 
-### 🔸 **Threat Hunting Pipeline — Splunk Enterprise + Sysmon**
+###  **Threat Hunting Pipeline — Splunk Enterprise + Sysmon**
 Created custom **Splunk detection dashboards** parsing **Windows Event Logs** and **Sysmon telemetry**.  
 - Deployed correlation searches for persistence, lateral movement, and execution anomalies.  
 - Designed playbook automation to enrich alerts with VirusTotal & AbuseIPDB data.  
@@ -92,14 +53,14 @@ Created custom **Splunk detection dashboards** parsing **Windows Event Logs** an
 
 ---
 
-### 🔸 **Endpoint Detection & Response — Acronis MDR**
+###  **Endpoint Detection & Response — Acronis MDR**
 Configured and tested **Acronis MDR** for live telemetry collection and incident alerting.  
 Simulated **phishing payload** detection and EDR response escalation workflows.  
 **Outcome:** Demonstrated proactive containment and automated rollback during test ransomware deployment.
 
 ---
 
-### 🔸 **Network Threat Visibility — Zeek + Suricata**
+###  **Network Threat Visibility — Zeek + Suricata**
 Engineered a dual-IDS environment using **Zeek** and **Suricata** with real-time packet analysis and traffic signature detection.  
 Enhanced incident correlation between network alerts and SIEM logs to identify APT-style attacks.
 
@@ -115,7 +76,7 @@ Enhanced incident correlation between network alerts and SIEM logs to identify A
 
 ---
 
-## 🧭 Professional Highlights
+##  Professional Highlights
 
 - ✅ Built hands-on SOC lab architecture integrated with SIEM, IDS, and EDR tools.  
 - ✅ Conducted malware triage and forensic analysis on Windows/Linux environments.  
@@ -125,20 +86,11 @@ Enhanced incident correlation between network alerts and SIEM logs to identify A
 
 ---
 
-## 🌍 Career Objective
+##  Career Objective
 
 Seeking a **Remote Cybersecurity Analyst / SOC Analyst** position to apply analytical expertise in **SIEM management**, **incident response**, and **threat detection engineering**, contributing to proactive cyber defense initiatives and measurable security maturity improvement.
 
 ---
-
-<p align="center">
-<b>💡 Let’s Connect:</b><br>
-<a href="https://www.linkedin.com/in/solomon-henry-bassey" target="_blank">LinkedIn</a> |
-<a href="mailto:bsolomonhenry@obedagroup.com">Email</a> |
-<a href="https://github.com/solomonhenry-afk">GitHub</a>
-</p>
-
-
 
 > 📘 This folder is part of the **Bassey-Solomon-Henry Portfolio**.
 > It contains materials for **Cybersecurity-Analyst-SOC-Analyst**, aligned with the overall cybersecurity and DevSecOps career portfolio.
@@ -147,6 +99,6 @@ Seeking a **Remote Cybersecurity Analyst / SOC Analyst** position to apply analy
 
 ✅ Status: **Initialized**
 🗓️ Created on: October 17, 2025
-👤 Author: Solomon Henry Bassey
+👤 Author: Bassey Solomon Henry
 
 ---
